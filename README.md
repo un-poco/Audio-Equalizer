@@ -9,5 +9,5 @@ UIfigure of app1:
 
 App2 has similar functions to App1, a difference lies in that App2 is based on reading .wav file. So user can choose any music wav file as he like. We've also realized functions like vocal cancellation, speed change, tonal modification.   
 
-UIfigure of app2
+UIfigure of app2:   
 ![ui2](https://upload-images.jianshu.io/upload_images/13964980-39f6dfe6075c4caf.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
